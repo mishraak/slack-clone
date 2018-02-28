@@ -84,7 +84,7 @@
     "mocha": "3.5.3",
     "prettier-standard": "8.0.0",
     "supertest": "3.0.0",
-    "webpack-dev-middleware": "2.0.6",
+    "webpack-dev-middleware": "3.0.0",
     "webpack-hot-middleware": "2.21.0"
   }
 }
